@@ -1,0 +1,1 @@
+{"uuid":"e30133ea-530b-45f3-9167-bf293d9ad458","name":"com.qa.orangehrm.tests.HomePageTest","children":["f55a2789-cf95-42d4-beaf-9f8509b6fcf2"],"befores":[{"name":"doLoginToHomePage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1716969177277,"stop":1716969179011}],"afters":[],"start":1716969168054,"stop":1716969184465}
